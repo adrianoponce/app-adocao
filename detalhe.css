@@ -34,7 +34,8 @@ p{
 a{
     width: 270px;
     background-color: #1F9440;
-    display: block; /*SEPARA LINK E BOTÃO EM LINHAS DIFERENTES*/
+    display: block; /*SEPARA LINK E BOTÃO
+    EM LINHAS DIFERENTES*/
     margin-left: auto;
     margin-right: auto;
     padding-top: 10px;
