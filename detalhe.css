@@ -6,11 +6,12 @@
 
 main{
     text-align:center;
-        
+    /*CENTRALIZA TODOS OS OBJETOS:
+    TEXTO, IMAGEM, BOTÃO, ETC...*/
 }
 
 img{
-    width:100%;
+    width:100%; /*OCUPA TODO O ESPAÇO*/
     margin-bottom: 33px;
 
 }
@@ -33,7 +34,7 @@ p{
 a{
     width: 270px;
     background-color: #1F9440;
-    display: block;
+    display: block; /*SEPARA LINK E BOTÃO EM LINHAS DIFERENTES*/
     margin-left: auto;
     margin-right: auto;
     padding-top: 10px;
@@ -44,6 +45,4 @@ a{
     font-family: sans-serif;
     text-transform: uppercase;
     border-radius: 50px;
-    
-
-}
+ }
